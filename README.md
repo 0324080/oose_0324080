@@ -26,4 +26,4 @@ s組長: 資管3B 0324080 翁清福
 
 活動圖：
 
-![image](https://github.com/0324080/oose_0324080/blob/master/AD.jpg)
+![image](https://github.com/0324080/oose_0324080/blob/master/AD.JPG)

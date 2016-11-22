@@ -18,6 +18,12 @@
 
 ***
 
-使用個案圖：
+使用個案圖：                                                                                     
 
 ![image](https://github.com/0324080/oose_0324080/blob/master/usecase.jpg)
+                                                                         
+***
+
+活動圖：
+
+![image](https://github.com/0324080/oose_0324080/blob/master/AD.jpg)

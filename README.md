@@ -1,3 +1,4 @@
+
 組長: 資管3B 0324080 翁清福
 
 組員: 資管3B 0324006 吳政軒
@@ -29,3 +30,7 @@
 ![image](https://github.com/0324080/oose_0324080/blob/master/AD.JPG)
 
 ***
+
+強韌圖
+
+![image](https://github.com/0324080/oose_0324080/blob/master/RD.jpg)

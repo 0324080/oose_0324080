@@ -15,3 +15,9 @@
   大致功能為教授能透過該系統設定當前狀態(空閒、忙碌、當前的位置)、甚至行程，並讓該校學生、教授、外部廠商可以即時查詢、預約，當老師同意該預約時，會寄信給使用者。
 
   ![image](https://github.com/0324080/oose_0324080/blob/master/T1.jpg)
+
+***
+
+使用個案圖：
+
+![image](https://github.com/0324080/oose_0324080/blob/master/usecase.jpg)

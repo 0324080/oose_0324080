@@ -47,4 +47,5 @@
 ***
 
 元件圖：
-![image](https://github.com/0324080/oose_0324080/blob/master/元件圖.jpg)
+
+![image](https://github.com/0324080/oose_0324080/blob/master/元件圖.png)

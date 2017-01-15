@@ -32,8 +32,6 @@
 
 ![image](https://github.com/0324080/oose_0324080/blob/master/RD.jpg)
 
-![image](https://github.com/0324080/oose_0324080/blob/master/RDtype.jpg)
-
 ***
 
 時序圖：

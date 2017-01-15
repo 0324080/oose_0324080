@@ -43,3 +43,8 @@
 類別圖：
 
 ![image](https://github.com/0324080/oose_0324080/blob/master/類別圖.jpg)
+
+***
+
+元件圖：
+![image](https://github.com/0324080/oose_0324080/blob/master/元件圖.jpg)
